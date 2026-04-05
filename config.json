@@ -1,0 +1,5 @@
+{
+  "api_id": 123456,
+  "api_hash": "YOUR_API_HASH_HERE",
+  "SKIP_2FA_enabled": false
+}
